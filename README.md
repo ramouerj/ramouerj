@@ -3,8 +3,8 @@
 
 ![images](https://user-images.githubusercontent.com/7718180/95263750-aec57680-0804-11eb-8a80-1d98d04cd2bc.png)
 
-
  **📫 Contact and social medias:**<br>
+ 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ramoieeeuerj)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/company/ramo-ieee-uerj/?originalSubdomain=br)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vivek.agent47/)
