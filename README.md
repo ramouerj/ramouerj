@@ -12,4 +12,4 @@
 
 <img align="left" height="80px" src="https://user-images.githubusercontent.com/7718180/95263330-fe577280-0803-11eb-9c20-c46cb6500252.png" />
 
-<img align="right"  height="100px" src="https://user-images.githubusercontent.com/7718180/95263988-0532b500-0805-11eb-83fb-c442fd38aba8.png" />
+<img align="right"  height="100px" src="https://user-images.githubusercontent.com/7718180/95263988-0532b500-0805-11eb-83fb-c442fd38aba8.png" href="https://edu.ieee.org/br-uerj/" />
