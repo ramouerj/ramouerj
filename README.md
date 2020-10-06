@@ -10,6 +10,7 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vivek.agent47/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ieeeuerj/)
 
+<!--
 <img align="left" height="80px" src="https://user-images.githubusercontent.com/7718180/95263330-fe577280-0803-11eb-9c20-c46cb6500252.png" />
-
-<img align="right"  height="100px" src="https://user-images.githubusercontent.com/7718180/95263988-0532b500-0805-11eb-83fb-c442fd38aba8.png" href="https://edu.ieee.org/br-uerj/" />
+<img align="right"  height="100px" src="https://user-images.githubusercontent.com/7718180/95263988-0532b500-0805-11eb-83fb-c442fd38aba8.png" href="https://edu.ieee.org/br-uerj/" /> 
+-->
